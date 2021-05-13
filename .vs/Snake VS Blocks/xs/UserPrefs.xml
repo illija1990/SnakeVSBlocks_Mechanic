@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{36936F9B-E7BC-6251-0F47-96F22F520144}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraResolution.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Snake.cs" Line="13" Column="51" />
+      <File FileName="Assets/Scripts/SnakeHead.cs" Line="10" Column="38" />
+      <File FileName="Assets/Scripts/Snake/SnakeSizeView.cs" Line="19" Column="45" />
+      <File FileName="Assets/Scripts/TailGenerator.cs" Line="9" Column="65" />
+      <File FileName="Assets/Scripts/SnakeInput.cs" Line="23" Column="6" />
+      <File FileName="Assets/Scripts/Segment.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/SnakeTracker.cs" Line="5" Column="56" />
+      <File FileName="Assets/Scripts/Block/Block.cs" Line="24" Column="43" />
+      <File FileName="Assets/Scripts/Block/BlockView.cs" Line="12" Column="25" />
+      <File FileName="Assets/Scripts/Bonus/Bonus.cs" Line="19" Column="71" />
+      <File FileName="Assets/Scripts/Spawner/Spewner.cs" Line="26" Column="101" />
+      <File FileName="Assets/Scripts/Spawner/SpawnPoint.cs" Line="7" Column="4" />
+      <File FileName="Assets/Scripts/CameraResolution.cs" Line="12" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snake VS Blocks" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Block" expanded="True" />
+                <Node name="Bonus" expanded="True" />
+                <Node name="Snake" expanded="True" />
+                <Node name="Spawner" expanded="True" />
+                <Node name="CameraResolution.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b52b1049-7a84-45d1-9bb7-4a6af8d75649" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
